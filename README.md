@@ -21,7 +21,7 @@
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
--There are two of many conclusions that could be drawn about the Outcomes Based on Launch Date chart. The first is that May is the most successful month to launch a campaign and so in order to have the best chance at succeeding, it is suggested to launch during the summertime. The second is that the month of December should be avoided as a launch date in order to have a succesful campaign due to the data showing the least amount of successful campaigns as well as the same or close to the same amount of campaigns that failed during this month. 
+- There are two of many conclusions that could be drawn about the Outcomes Based on Launch Date chart. The first is that May is the most successful month to launch a campaign and so in order to have the best chance at succeeding, it is suggested to launch during the summertime. The second is that the month of December should be avoided as a launch date in order to have a succesful campaign due to the data showing the least amount of successful campaigns as well as the same or close to the same amount of campaigns that failed during this month. 
 - What can you conclude about the Outcomes based on Goals?
 --The chart displaying Outcomes based on Goals indicated that the most successful play campaigns had a goal between the ranges of 45000 to 49999.
     
