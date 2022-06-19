@@ -16,7 +16,7 @@
 ![Outcomes_vs_Goals.png](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
----Challenges faced included determining the appropriate excel formulas in order to extract the data needed for each new data column. I used the tools learned throughout previous modules to determine the best equations to use.
+--Challenges faced included determining the appropriate excel formulas in order to extract the data needed for each new data column. I used the tools learned throughout previous modules to determine the best equations to use.
     
 ## Results
 
