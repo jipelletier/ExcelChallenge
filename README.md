@@ -10,10 +10,10 @@
 ---To perform this analysis, I added additional columns and pivot charts and tables to the Kickstarter data sheet using the data collected from other campaigns. I determined the percentage funded and donation average for each campaign outlined in the data set. I created a pivot table and chart for Theatre Outcomes by Launch Date to analyze which campaigns were successful dependent on their start date. I created another pivot table and chart to analyze Outcomes vs. Goals. This was to determine the success of campaign based on what the goal percentage was.
     
 ### Analysis of Outcomes Based on Launch Date
-![Theater_Outcomes_vs_Launch.png](/Users/jordanpelletier/Desktop/Classwork/Crowdfunding Analysis/Resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch.png](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes_vs_Goals.png](/Users/jordanpelletier/Desktop/Classwork/Crowdfunding Analysis/Resources/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 ---Challenges faced included determining the appropriate excel formulas in order to extract the data needed for each new data column. I used the tools learned throughout previous modules to determine the best equations to use.
